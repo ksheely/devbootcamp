@@ -28,7 +28,19 @@ layouts/
 
 code/
 +   _index.php_ (basic signin page)
-+   _home.php_ 
++   _home.php_  (Home page - with Nav bar)
 +   _view..php_
 +   _insert.php_ 
 +   _header.php_   (header for all php pages)
+
+#Current Status of Project#
+Steps 1 & 2 were completed. Some cleanup would be needed on the user interface sdie for cleaner layout, but the foundation is there.
+Step 3: Database and tables would need to be created. 4 large tables should be created (connecting tables not included). These tables include:
++	ALBUM table (holds all ALBUM records)
++	ARTIST table (connected to ALBUM table, holds ARTIST records)
++	TRACK table (also connected to ALBUM table, holds TRACk records)
++	USER table (holds are user and password information, for loggin page)
+
+Step 4: Server-side code is needed. AJAX would potential serve best in Update page, as it would help when users are updating their favorites.
+
+Step 5: Good testing with all devices and browsers, but hopefully by using Bootstrap, this will be easier.
