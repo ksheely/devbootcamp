@@ -21,17 +21,13 @@ Step 5: Testing
 
 
 #Pages included#
-layouts/
-+   _home.jpg_ (home page to navigate to View and Insert pages)
-+   _view.jpg_ (view all albums entered, also allows favorite option)
-+   _insert.jpg_ (allows inserting new albums)
++ _layouts.pdf_ (pdf created using Axure showing potential layout of 3 main pages)
 
-code/
 +   _index.php_ (basic signin page)
 +   _home.php_  (Home page - with Nav bar)
 +   _view..php_
 +   _insert.php_ 
-+   _header.php_   (header for all php pages)
++   _include/header.php_   (header for all php pages)
 
 #Current Status of Project#
 Steps 1 & 2 were completed. Some cleanup would be needed on the user interface sdie for cleaner layout, but the foundation is there.
