@@ -31,6 +31,7 @@ Step 5: Testing
 
 #Current Status of Project#
 Steps 1 & 2 were completed. Some cleanup would be needed on the user interface sdie for cleaner layout, but the foundation is there.
+
 Step 3: Database and tables would need to be created. 4 large tables should be created (connecting tables not included). These tables include:
 +	ALBUM table (holds all ALBUM records)
 +	ARTIST table (connected to ALBUM table, holds ARTIST records)
