@@ -1,5 +1,6 @@
-+# devbootcamp
-+_Recordly_: Recordly will be an application that allows for users to input and store their record collection. When complete, the user should be able to view their record collection, view a list of their "favorite" albums and/or songs, etc. Duplicate albums/songs should not be allowed. They should be able to "favorite" any of album/song/artist.
+#devbootcamp#
+
+_Recordly_: Recordly will be an application that allows for users to input and store their record collection. When complete, the user should be able to view their record collection, view a list of their "favorite" albums and/or songs, etc. Duplicate albums/songs should not be allowed. They should be able to "favorite" any of album/song/artist.
 
 Step 1: Design User interface 
 +   By designing in Photoshop (or another interface desinger) how the page will look like before coding starts, it saves a lot of time later in desiding how everything will, if it will fit, back-end requirements, and table layouts in the database.
