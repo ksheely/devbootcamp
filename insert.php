@@ -1,4 +1,10 @@
 <?php 
+//***************************************************//
+//	Title: insert.php
+//	Description: allows users to enter new albums and records
+//	Author: K. Sheely, 04/2016
+//***************************************************//
+
 $page_title = "Insert Album";
 
 include("include/header.php");

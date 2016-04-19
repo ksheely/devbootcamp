@@ -1,4 +1,11 @@
 <?php 
+//***************************************************//
+//	Title: view.php
+//	Description: allows users to view and search in their albums.
+//				also allows to add favorites
+//	Author: K. Sheely, 04/2016
+//***************************************************//
+
 $page_title = "View My Album Collection";
 
 include("include/header.php");
@@ -7,7 +14,7 @@ include("include/header.php");
     
      <div class="container">
      
-        <h1>View My Record Collection</h1>
+        <h1>View My Album Collection</h1>
   
       <!--*********************************************************************
         MAIN FORM:
@@ -63,6 +70,11 @@ include("include/header.php");
         </tbody>
   </table>
 
+
+	<script>
+    //POTENTIAL LCOATION TO ADD JQUERY TO UDPATE AFTER SEARCH AND FAVORITES
+    
+    </script>
 </div>
 </body>
 </html>
